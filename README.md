@@ -7,3 +7,5 @@ API Testing on Postman   --> Get  URL http://127.0.0.1:8000/api/mobiles/
 POST API --> http://127.0.0.1:8000/api/mobiles/
 PUT API =--> http://127.0.0.1:8000/api/mobiles/4/
 Delete API --> http://127.0.0.1:8000/api/mobile/3/
+
+# download zip folder 
